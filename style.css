@@ -1,0 +1,12 @@
+*{
+    border:2px
+}
+h1{
+    background-color:rgb(29, 22, 6);
+color:blue;
+}
+img{
+    overflow: hidden;
+    height: 300px;
+
+}
